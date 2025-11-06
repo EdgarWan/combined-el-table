@@ -1,6 +1,8 @@
 # Combined El Table
 
 一个基于 Element UI Table 的增强型表格组件，提供强大的单元格合并功能。
+vue:^2.5.0
+element-ui:^2.0.0
 
 ## 特性
 
